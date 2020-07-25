@@ -1,0 +1,6 @@
+gema "# jus" >> README.md 
+git init 
+git tambahkan README.md 
+git commit -m "komit pertama" 
+git tambah jarak jauh https://github.com/azalea3/juice.git
+ git push -u master asal
